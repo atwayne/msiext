@@ -51,7 +51,6 @@
 				Optimization="0"
 				AdditionalIncludeDirectories="..\..\..\include,..\..\..\include\msvc6,..\TestRunner"
 				PreprocessorDefinitions="_DEBUG;CPPUNIT_TESTPLUGINRUNNER_BUILD;WIN32;_WINDOWS;CPPUNIT_SUBCLASSING_TESTRUNNERDLG_BUILD;CPPUNIT_DLL"
-				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
 				RuntimeLibrary="3"
 				RuntimeTypeInfo="true"

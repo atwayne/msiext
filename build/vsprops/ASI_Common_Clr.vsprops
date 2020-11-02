@@ -8,9 +8,7 @@
 	<Tool
 		Name="VCCLCompilerTool"
 		AdditionalUsingDirectories="$(SolutionDir)target\$(ConfigurationName)_$(PlatformName)\bin"
-		DebugInformationFormat="3"
-		MinimalRebuild="false"
-	/>
+		DebugInformationFormat="3"/>
 	<Tool
 		Name="VCLinkerTool"
 		AdditionalLibraryDirectories="$(SolutionDir)target\$(ConfigurationName)_$(PlatformName)\bin"
