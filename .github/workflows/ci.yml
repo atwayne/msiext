@@ -28,7 +28,7 @@ jobs:
 
       # microsoft xml core services 4.0
       - name: msxml4
-        uses: atwayne/msxml4-github-action@v1        
+        uses: atwayne/msxml4-github-action@v2        
 
       # build everything
       - name: build everything
